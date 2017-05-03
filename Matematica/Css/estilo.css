@@ -1,0 +1,49 @@
+			
+			main
+			{
+				text-align:center;
+			}
+			.logo
+			{
+				background-color:#458B74;
+			}
+			.menu li 
+			{    
+				display:inline;
+				margin:0 70px;
+				color:#FFF;
+			}
+			
+			.texto_principal
+			{
+				background-color:#66CDAA;
+			}
+			nav
+			{
+				background-color:#458B74;
+				padding: 10px 10px 10px 10px; 
+			}
+			li
+			{
+				list-style:none; 
+			}
+			.caixas div
+			{
+				display:inline-block;
+				width:1400px;
+				word-wrap:break-word;
+				margin-right:5px;
+				margin-left:20px;
+				color:#000;
+				text-align: left;
+				float:left;
+				padding:12px;
+				background-color:#66CDAA;
+				color:#FFF;
+				margin-bottom:10px;
+			} 
+			.footer
+			{
+				background-color:#458B74;
+			}
+		
